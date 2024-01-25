@@ -1,0 +1,3 @@
+flask
+gunicorn
+#telling the system to pip install flask, pip install gunicorn (the stuff that you want to install, a bit like how you would want to have bed and table in your bedroom) 
